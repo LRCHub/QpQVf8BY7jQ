@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Draw World!",
+  "base_artist": "Endorfin.",
+  "createdAt": "2025-12-18T04:35:00.511642Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Draw World!",
+      "artist": "Endorfin.",
+      "has_synced": false,
+      "path": "select/pl_01_Draw_World!_Endorfin..txt"
+    }
+  ]
+}
